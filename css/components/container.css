@@ -1,0 +1,14 @@
+.container {
+
+}
+
+.container a {
+  color: white;
+  background-color: #3BDD88;
+  border-radius: 30px;
+  padding: 15px 25px;
+}
+
+.container h2 {
+  text-align: center;
+}

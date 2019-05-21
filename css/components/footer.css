@@ -1,0 +1,14 @@
+.footer {
+  color: grey;
+  background-color: #2C2A2A;
+  text-align: center;
+  padding: 40px 0px;
+}
+
+.footer li {
+  color: #3BDD88;
+  font-size: 24px;
+  display: inline;
+  list-style: none;
+  padding: 0px 5px;
+}
